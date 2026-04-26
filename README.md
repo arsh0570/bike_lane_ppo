@@ -11,7 +11,7 @@ The agent sequentially converts car lanes into bike lanes while maintaining car 
 Clone the repository and install the package in editable mode inside a virtual environment:
 
 ```bash
-git clone https://github.com/yourusername/bike_lane_rl
+git clone https://github.com/arsh0570/bike_lane_ppo.git
 cd bike_lane_rl
 python -m venv env
 source env/bin/activate          # Linux/Mac
