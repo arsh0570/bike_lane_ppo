@@ -19,10 +19,10 @@ source env/bin/activate          # Linux/Mac
 pip install -e .
 ```
 
-<img src="assets/overview.png" alt="Pareto frontier and corresponding street networks" style="width:100%;">
 
 
-This installs the package called `ebike_city_tools` by [1] in the virtual environment, together with all dependencies, including stable-baselines3 for PPO.
+
+This installs the package called `ebike_city_tools` by [1](https://github.com/mie-lab/bike_lane_optimization)in the virtual environment, together with all dependencies, including stable-baselines3 for PPO.
 
 
 Most scripts will save the results to the `outputs` folder by default.
